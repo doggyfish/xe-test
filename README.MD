@@ -30,6 +30,6 @@ Added NUnit Tests
 
 ## Further Improvements I Would Make If I Had More Time (in order of implementation, highest priority first)
 
-implement proper dependency injection, use a proper third-party IOC container like Unity or Autofac
+mplement proper dependency injection, use a proper third-party IOC container like Unity or Autofac
 
 ## Here's What I Would Like to Talk About At The Interview
